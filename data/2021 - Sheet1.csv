@@ -1,0 +1,63 @@
+Year,College Code,College_Name,Branch Code,Branch Name,BC,BCM,MBC,SC,SCA,ST
+2021,1,"University Departments of Anna University, Chennai - CEG Campus, Sardar Patel Road, Guindy, Chennai 600 025",BY,BIO MEDICAL ENGINEERING (SS),194,193.5,194.775,189,182.5,181
+2021,1,"University Departments of Anna University, Chennai - CEG Campus, Sardar Patel Road, Guindy, Chennai 600 025",CE,CIVIL ENGINEERING,192.685,190.5,193.33,190,182,174.635
+2021,1,"University Departments of Anna University, Chennai - CEG Campus, Sardar Patel Road, Guindy, Chennai 600 025",CM,COMPUTER SCIENCE AND ENGINEERING (SS),197.6666667,196.375,197.5,193,192.06,190.815
+2021,1,"University Departments of Anna University, Chennai - CEG Campus, Sardar Patel Road, Guindy, Chennai 600 025",CS,COMPUTER SCIENCE AND ENGINEERING,198.12,197.02,198.625,196.5,193.935,192.165
+2021,1,"University Departments of Anna University, Chennai - CEG Campus, Sardar Patel Road, Guindy, Chennai 600 025",EC,ELECTRONICS AND COMMUNICATION ENGINEERING,197.3333333,196,197.13,194.35,192,192.5
+2021,1,"University Departments of Anna University, Chennai - CEG Campus, Sardar Patel Road, Guindy, Chennai 600 025",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,195,193.825,195.46,191,190.385,191
+2021,1,"University Departments of Anna University, Chennai - CEG Campus, Sardar Patel Road, Guindy, Chennai 600 025",EM,ELECTRONICS AND COMMUNICATION ENGINEERING (SS),196,195.855,196,192.185,189.01,187.5
+2021,1,"University Departments of Anna University, Chennai - CEG Campus, Sardar Patel Road, Guindy, Chennai 600 025",GI,GEO INFORMATICS,192,191.965,193.08,188,182.295,
+2021,1,"University Departments of Anna University, Chennai - CEG Campus, Sardar Patel Road, Guindy, Chennai 600 025",IE,INDUSTRIAL ENGINEERING,191.42,190.3,191.5,187.065,179.815,
+2021,1,"University Departments of Anna University, Chennai - CEG Campus, Sardar Patel Road, Guindy, Chennai 600 025",IM,INFORMATION TECHNOLOGY (SS),196,194.4,195.825,191.5,189.145,192.44
+2021,1,"University Departments of Anna University, Chennai - CEG Campus, Sardar Patel Road, Guindy, Chennai 600 025",MA,MATERIAL SCIENCE AND ENGINEERING (SS),190.755,188.065,190.86,184.92,171.625,
+2021,1,"University Departments of Anna University, Chennai - CEG Campus, Sardar Patel Road, Guindy, Chennai 600 025",ME,MECHANICAL ENGINEERING,193.5,193,193.54,188.255,186.53,181.065
+2021,1,"University Departments of Anna University, Chennai - CEG Campus, Sardar Patel Road, Guindy, Chennai 600 025",MI,MINING ENGINEERING,188.44,188.795,187.47,183.655,174.12,
+2021,1,"University Departments of Anna University, Chennai - CEG Campus, Sardar Patel Road, Guindy, Chennai 600 025",MN,MANUFACTURING ENGINEERING,190,186.82,191,185.65,184.78,172.9
+2021,1,"University Departments of Anna University, Chennai - CEG Campus, Sardar Patel Road, Guindy, Chennai 600 025",PT,PRINTING TECHNOLOGY,187.5,185,187.875,183.36,177.19,
+2021,1,"University Departments of Anna University, Chennai - CEG Campus, Sardar Patel Road, Guindy, Chennai 600 025",XC,CIVIL ENGINEERING (TAMIL MEDIUM),181.77,177.845,182.305,176.89,173.03,
+2021,1,"University Departments of Anna University, Chennai - CEG Campus, Sardar Patel Road, Guindy, Chennai 600 025",XM,MECHANICAL ENGINEERING (TAMIL MEDIUM),182.5,182.385,,177.11,175.585,
+2021,2,"University Departments of Anna University, Chennai - ACT Campus, Sardar Patel Road, Guindy, Chennai 600 025",AP,APPAREL TECHNOLOGY (SS),182.5,179.315,184.725,174.715,168.46,
+2021,2,"University Departments of Anna University, Chennai - ACT Campus, Sardar Patel Road, Guindy, Chennai 600 025",CH,CHEMICAL ENGINEERING,192,,193.385,187.495,180.415,188
+2021,2,"University Departments of Anna University, Chennai - ACT Campus, Sardar Patel Road, Guindy, Chennai 600 025",CL,CHEMICAL ENGINEERING (SS),190.67,188.5,191.5,184.715,,171.39
+2021,2,"University Departments of Anna University, Chennai - ACT Campus, Sardar Patel Road, Guindy, Chennai 600 025",CR,CERAMIC TECHNOLOGY (SS),182.61,183.5,181.925,175.5,161.835,
+2021,2,"University Departments of Anna University, Chennai - ACT Campus, Sardar Patel Road, Guindy, Chennai 600 025",FS,FOOD TECHNOLOGY (SS),190.77,189.42,,184.685,181.935,
+2021,2,"University Departments of Anna University, Chennai - ACT Campus, Sardar Patel Road, Guindy, Chennai 600 025",IB,INDUSTRIAL BIO TECHNOLOGY,193.835,192,,188.45,184.035,
+2021,2,"University Departments of Anna University, Chennai - ACT Campus, Sardar Patel Road, Guindy, Chennai 600 025",IS,INDUSTRIAL BIO TECHNOLOGY (SS),193.385,190.5,190,186.56,177.69,
+2021,2,"University Departments of Anna University, Chennai - ACT Campus, Sardar Patel Road, Guindy, Chennai 600 025",LE,LEATHER TECHNOLOGY,182.3,181.89,181.35,178.385,177.01,163
+2021,2,"University Departments of Anna University, Chennai - ACT Campus, Sardar Patel Road, Guindy, Chennai 600 025",PM,PHARMACEUTICAL TECHNOLOGY (SS),189,187.83,187.545,183.385,174.975,168.935
+2021,2,"University Departments of Anna University, Chennai - ACT Campus, Sardar Patel Road, Guindy, Chennai 600 025",PP,PETROLEUM ENGINEERING AND TECHNOLOGY (SS),186.275,186.24,184.5,182.065,173.535,
+2021,2,"University Departments of Anna University, Chennai - ACT Campus, Sardar Patel Road, Guindy, Chennai 600 025",TX,TEXTILE TECHNOLOGY,184,182.25,184.3,178.735,168.075,161.65
+2021,4,"University Departments of Anna University, Chennai - MIT Campus, Chrompet, Tambaram Taluk, Chengalpattu District 600 044",AE,AERONAUTICAL ENGINEERING,194,193,194.22,190,187.34,
+2021,4,"University Departments of Anna University, Chennai - MIT Campus, Chrompet, Tambaram Taluk, Chengalpattu District 600 044",AU,AUTOMOBILE ENGINEERING,190,189.825,,186.32,176.5,175.925
+2021,4,"University Departments of Anna University, Chennai - MIT Campus, Chrompet, Tambaram Taluk, Chengalpattu District 600 044",CM,COMPUTER SCIENCE AND ENGINEERING (SS),196.01,194.385,195.955,191.5,188.57,187.5
+2021,4,"University Departments of Anna University, Chennai - MIT Campus, Chrompet, Tambaram Taluk, Chengalpattu District 600 044",CS,COMPUTER SCIENCE AND ENGINEERING,196.825,195.095,197.155,192.5,193.26,
+2021,4,"University Departments of Anna University, Chennai - MIT Campus, Chrompet, Tambaram Taluk, Chengalpattu District 600 044",EC,ELECTRONICS AND COMMUNICATION ENGINEERING,195.515,193.9,,192,190.865,186
+2021,4,"University Departments of Anna University, Chennai - MIT Campus, Chrompet, Tambaram Taluk, Chengalpattu District 600 044",EI,ELECTRONICS AND INSTRUMENTATION ENGINEERING,194,193.135,194.23,189.79,182.295,183.495
+2021,4,"University Departments of Anna University, Chennai - MIT Campus, Chrompet, Tambaram Taluk, Chengalpattu District 600 044",EM,ELECTRONICS AND COMMUNICATION ENGINEERING (SS),195,193.525,195.13,190.25,,185.255
+2021,4,"University Departments of Anna University, Chennai - MIT Campus, Chrompet, Tambaram Taluk, Chengalpattu District 600 044",IM,INFORMATION TECHNOLOGY (SS),195.025,193.865,195.3,190.36,187.505,
+2021,4,"University Departments of Anna University, Chennai - MIT Campus, Chrompet, Tambaram Taluk, Chengalpattu District 600 044",MF,MECHANICAL ENGINEERING (SS),192.5,191,193,186.5,185.275,175.545
+2021,4,"University Departments of Anna University, Chennai - MIT Campus, Chrompet, Tambaram Taluk, Chengalpattu District 600 044",PR,PRODUCTION ENGINEERING,189.715,188.5,188.625,184.57,178.815,
+2021,4,"University Departments of Anna University, Chennai - MIT Campus, Chrompet, Tambaram Taluk, Chengalpattu District 600 044",RP,RUBBER AND PLASTIC TECHNOLOGY,186,184.11,184.925,181,173.505,
+2021,5,"Annamalai University Faculty of Engineering and Technology,Annamalai nagar,Cuddalore",AM,COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING),174.535,171.92,180.32,166.925,,141.54
+2021,5,"Annamalai University Faculty of Engineering and Technology,Annamalai nagar,Cuddalore",CE,CIVIL ENGINEERING,152.49,102.75,155.19,159.755,,
+2021,5,"Annamalai University Faculty of Engineering and Technology,Annamalai nagar,Cuddalore",CF,COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE),172.32,169.715,176.36,165.265,129,159.11
+2021,5,"Annamalai University Faculty of Engineering and Technology,Annamalai nagar,Cuddalore",CH,CHEMICAL ENGINEERING,149.7,140.55,155.89,153.405,166.55,137.365
+2021,5,"Annamalai University Faculty of Engineering and Technology,Annamalai nagar,Cuddalore",CS,COMPUTER SCIENCE AND ENGINEERING,176.11,176.935,179.725,167.965,161.405,163.32
+2021,5,"Annamalai University Faculty of Engineering and Technology,Annamalai nagar,Cuddalore",CZ,CIVIL AND STRUCTUTURAL ENGINEERING,121,143.9,144,150.44,155.02,
+2021,5,"Annamalai University Faculty of Engineering and Technology,Annamalai nagar,Cuddalore",EC,ELECTRONICS AND COMMUNICATION ENGINEERING,172.065,167.5,167.5,167.205,126.67,
+2021,5,"Annamalai University Faculty of Engineering and Technology,Annamalai nagar,Cuddalore",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,161.075,162.49,159.615,157.23,145.86,
+2021,5,"Annamalai University Faculty of Engineering and Technology,Annamalai nagar,Cuddalore",EI,ELECTRONICS AND INSTRUMENTATION ENGINEERING,157.22,154,,152.25,,
+2021,5,"Annamalai University Faculty of Engineering and Technology,Annamalai nagar,Cuddalore",IT,INFORMATION TECHNOLOGY,174.5,168.135,176.09,167.46,112.5,102.5
+2021,5,"Annamalai University Faculty of Engineering and Technology,Annamalai nagar,Cuddalore",ME,MECHANICAL ENGINEERING,122.99,142.275,136.425,153.45,,
+2021,5,"Annamalai University Faculty of Engineering and Technology,Annamalai nagar,Cuddalore",MM,MECHANICAL ENGINEERING (MANUFACTURING),111,149.33,,145.5,,
+2021,1013,"University College of Engineering, Villupuram, Kakuppam, Villupuram District 605103",CS,COMPUTER SCIENCE AND ENGINEERING,175.845,179.295,174.495,169.78,157.24,
+2021,1013,"University College of Engineering, Villupuram, Kakuppam, Villupuram District 605103",EC,ELECTRONICS AND COMMUNICATION ENGINEERING,171.22,166.615,174.67,160.01,162.01,
+2021,1013,"University College of Engineering, Villupuram, Kakuppam, Villupuram District 605103",IT,INFORMATION TECHNOLOGY,174.935,171.1,177.525,169.5,161.32,
+2021,1013,"University College of Engineering, Villupuram, Kakuppam, Villupuram District 605103",ME,MECHANICAL ENGINEERING,145.46,156.55,118.85,149.9,136.615,
+2021,1013,"University College of Engineering, Villupuram, Kakuppam, Villupuram District 605103",XM,MECHANICAL ENGINEERING (TAMIL MEDIUM),,,,,,
+2021,1014,"University College of Engineering, Tindivanam, Melpakkam, Tindivanam, Villupuram District 604001",CE,CIVIL ENGINEERING,127,149,142.925,146.285,,
+2021,1014,"University College of Engineering, Tindivanam, Melpakkam, Tindivanam, Villupuram District 604001",CS,COMPUTER SCIENCE AND ENGINEERING,174.01,170.55,177.495,167,149.845,
+2021,1014,"University College of Engineering, Tindivanam, Melpakkam, Tindivanam, Villupuram District 604001",EC,ELECTRONICS AND COMMUNICATION ENGINEERING,168.58,158.3,164,160.635,,
+2021,1014,"University College of Engineering, Tindivanam, Melpakkam, Tindivanam, Villupuram District 604001",IT,INFORMATION TECHNOLOGY,172.65,162.35,168.87,166.085,158.81,152.92
+
+
